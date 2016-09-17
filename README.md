@@ -26,19 +26,19 @@ The levels are:
 Language: **JavaScript**  
 Platform: **Web browser**  
 Level: **L4**  
-Authors: @jondubois  
+Authors: [jondubois](https://github.com/jondubois)  
 Repo: https://github.com/SocketCluster/socketcluster-client
 
 **SocketCluster-android-client**  
 Language: **Java**  
 Platform: **Android**  
 Level: **L4**  
-Authors: @abpopov, @dark58  
+Authors: [abpopov](https://github.com/abpopov), [dark58](https://github.com/dark58)  
 Repo: https://github.com/abpopov/SocketCluster-android-client
 
 **socketcluster-client-ios**  
 Language: **Objective-C**  
 Platform: **iOS**  
 Level: **L3**  
-Authors: @lihan  
+Authors: [lihan](https://github.com/lihan)  
 Repo: https://github.com/SocketCluster/socketcluster-client-ios
