@@ -36,6 +36,13 @@ Level: **L4**
 Authors: [abpopov](https://github.com/abpopov), [dark58](https://github.com/dark58)  
 Repo: https://github.com/abpopov/SocketCluster-android-client
 
+**SocketCluster-ios-client**  
+Language: **Objective-C**  
+Platform: **iOS**  
+Level: **L4**  
+Authors: [abpopov](https://github.com/abpopov) 
+Repo: https://github.com/abpopov/SocketCluster-ios-client
+
 **socketcluster-client-ios**  
 Language: **Objective-C**  
 Platform: **iOS**  
