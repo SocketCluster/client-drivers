@@ -56,10 +56,3 @@ Platform: **Any Python platform**
 Level: **L4**  
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-python
-
-**socketcluster-client-ios**  
-Language: **Objective-C**  
-Platform: **iOS**  
-Level: **L3**  
-Authors: [lihan](https://github.com/lihan)  
-Repo: https://github.com/SocketCluster/socketcluster-client-ios
