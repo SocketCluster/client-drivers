@@ -43,14 +43,14 @@ Level: **L4**
 Authors: [abpopov](https://github.com/abpopov)  
 Repo: https://github.com/abpopov/SocketCluster-ios-client
 
-**socketcluster-client-java**
+**socketcluster-client-java**  
 Language: **Java**  
 Platform: **Any Java platform (including Android)**  
 Level: **L4**  
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-java
 
-**socketcluster-client-python**
+**socketcluster-client-python**  
 Language: **Python**  
 Platform: **Any Python platform**  
 Level: **L4**  
