@@ -29,20 +29,6 @@ Level: **L4**
 Authors: [jondubois](https://github.com/jondubois)  
 Repo: https://github.com/SocketCluster/socketcluster-client
 
-**SocketCluster-android-client**  
-Language: **Java**  
-Platform: **Android**  
-Level: **L4**  
-Authors: [abpopov](https://github.com/abpopov), [dark58](https://github.com/dark58)  
-Repo: https://github.com/abpopov/SocketCluster-android-client
-
-**SocketCluster-ios-client**  
-Language: **Objective-C**  
-Platform: **iOS**  
-Level: **L4**  
-Authors: [abpopov](https://github.com/abpopov)  
-Repo: https://github.com/abpopov/SocketCluster-ios-client
-
 **socketcluster-client-java**  
 Language: **Java**  
 Platform: **Any Java platform (including Android)**  
@@ -56,3 +42,17 @@ Platform: **Any Python platform**
 Level: **L4**  
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-python
+
+**SocketCluster-android-client**  
+Language: **Java**  
+Platform: **Android**  
+Level: **L4**  
+Authors: [abpopov](https://github.com/abpopov), [dark58](https://github.com/dark58)  
+Repo: https://github.com/abpopov/SocketCluster-android-client
+
+**SocketCluster-ios-client**  
+Language: **Objective-C**  
+Platform: **iOS**  
+Level: **L4**  
+Authors: [abpopov](https://github.com/abpopov)  
+Repo: https://github.com/abpopov/SocketCluster-ios-client
