@@ -29,7 +29,7 @@ Level: **L4**
 Authors: [jondubois](https://github.com/jondubois)  
 Repo: https://github.com/SocketCluster/socketcluster-client
 
-**socketcluster-client-java (Official Android client)**
+**socketcluster-client-java (Official Android client)**  
 Language: **Java**  
 Platform: **Any Java platform (including Android)**  
 Level: **L4**  
