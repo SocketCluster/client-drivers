@@ -43,7 +43,7 @@ Level: **L4**
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-python
 
-**socketcluster-client-dot-net (Official .NET/C# client)**  
+**socketcluster-client-dot-net (Official .NET client)**  
 Language: **C#**  
 Platform: **.NET, Mono, Silverlight, WindowsPhone, Xamarin.Android, Xamarin.iOS**  
 Level: **L4**  
