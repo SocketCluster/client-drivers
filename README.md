@@ -29,21 +29,21 @@ Level: **L4**
 Authors: [jondubois](https://github.com/jondubois)  
 Repo: https://github.com/SocketCluster/socketcluster-client
 
-**socketcluster-client-java**  
+**socketcluster-client-java (Official Android client)**
 Language: **Java**  
 Platform: **Any Java platform (including Android)**  
 Level: **L4**  
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-java
 
-**socketcluster-client-python**  
+**socketcluster-client-python (Official Python client)**  
 Language: **Python**  
 Platform: **Any Python platform**  
 Level: **L4**  
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-python
 
-**socketcluster-client-dot-net**  
+**socketcluster-client-dot-net (Official .NET/C# client)**  
 Language: **C#**  
 Platform: **.NET, Mono, Silverlight, WindowsPhone, Xamarin.Android, Xamarin.iOS**  
 Level: **L4**  
