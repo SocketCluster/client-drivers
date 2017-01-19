@@ -59,7 +59,7 @@ Repo: https://github.com/sacOO7/socketcluster-client-C
 
 ---
 
-These clients are not official, but they may be worth trying out if you have special requirements or if the official clients don't work on your specific platform for whatever reason.
+The clients listed below are not official, but they may be worth trying out if you have special requirements or if the official clients don't work on your specific platform for whatever reason.
 
 **SocketCluster-android-client**  
 Language: **Java**  
