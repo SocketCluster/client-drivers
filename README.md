@@ -50,6 +50,13 @@ Level: **L4**
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/SocketclusterClientDotNet
 
+**socketcluster-client-C (Official C client)**  
+Language: **C**  
+Platform: **Any Platform which has a standard C compiler**  
+Level: **L4**  
+Authors: [sacOO7](https://github.com/sacOO7)  
+Repo: https://github.com/sacOO7/socketcluster-client-C
+
 **SocketCluster-android-client**  
 Language: **Java**  
 Platform: **Android**  
