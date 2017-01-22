@@ -17,7 +17,7 @@ The levels are:
 - L3: Pub/sub
 - L4: Authentication (JWT)
 
-Feedback existing clients is welcome.
+Feedback on existing clients is welcome.
 
 ---
 
