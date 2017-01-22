@@ -36,6 +36,13 @@ Level: **L4**
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-java
 
+**SocketCluster-ios-client**  
+Language: **Objective-C**  
+Platform: **iOS**  
+Level: **L4**  
+Authors: [abpopov](https://github.com/abpopov)  
+Repo: https://github.com/abpopov/SocketCluster-ios-client
+
 **socketcluster-client-python (Official Python client)**  
 Language: **Python**  
 Platform: **Any Python platform**  
@@ -59,18 +66,9 @@ Repo: https://github.com/sacOO7/socketcluster-client-C
 
 ---
 
-These clients may be worth trying out if you have special requirements or if the clients above don't work on your specific platform for whatever reason.
-
 **SocketCluster-android-client**  
 Language: **Java**  
 Platform: **Android**  
 Level: **L4**  
 Authors: [abpopov](https://github.com/abpopov), [dark58](https://github.com/dark58)  
 Repo: https://github.com/abpopov/SocketCluster-android-client
-
-**SocketCluster-ios-client**  
-Language: **Objective-C**  
-Platform: **iOS**  
-Level: **L4**  
-Authors: [abpopov](https://github.com/abpopov)  
-Repo: https://github.com/abpopov/SocketCluster-ios-client
