@@ -1,7 +1,6 @@
 # Curated list of clients for SocketCluster
 
 This is the list of SocketCluster client drivers for various languages and/or operating systems.
-We cannot guarantee the quality of all clients in this list so we really appreciate your feedback.
 
 If you wrote an open source SC client and would like to add it to this list, you should submit a PR with
 the name of your client, GitHub repo URL, language/platform and the original author's GitHub username (follow the convention).
@@ -17,6 +16,8 @@ The levels are:
 - L2: Automatic reconnection
 - L3: Pub/sub
 - L4: Authentication (JWT)
+
+Feedback on existing clients is always welcome.
 
 ---
 
