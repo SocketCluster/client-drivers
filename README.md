@@ -58,6 +58,13 @@ Level: **L4**
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/SocketclusterClientDotNet
 
+**PureSocketCluster (.NET Core NetStandard client)**  
+Language: **C#**  
+Platform: **.NET Core, NetStandard**  
+Level: **L4**  
+Authors: [coinigy](https://github.com/coinigy)  
+Repo: https://github.com/coinigy/PureSocketCluster
+
 **socketcluster-client-C (Official C client)**  
 Language: **C**  
 Platform: **Any Platform which has a standard C compiler**  
