@@ -76,7 +76,7 @@ Repo: https://github.com/sacOO7/socketcluster-client-C
 Language: **C++11 or higher**  
 Platform: **All**  
 Level: **L4**  
-Authors: [Bryan Ashby](github.com/NuSkooler/)  
+Authors: [Bryan Ashby](https://github.com/NuSkooler/)  
 Repo: https://github.com/cw-zift/scio-beast  
 
 ---
