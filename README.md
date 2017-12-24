@@ -67,10 +67,17 @@ Repo: https://github.com/coinigy/PureSocketCluster
 
 **socketcluster-client-C (Official C client)**  
 Language: **C**  
-Platform: **Any Platform which has a standard C compiler**  
+Platform: **Any platform which has a standard C compiler**  
 Level: **L4**  
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-C
+
+**socketcluster-client-go (Official Go client)**  
+Language: **Go**  
+Platform: **Any platform which has a Go compiler**  
+Level: **L4**  
+Authors: [sacOO7](https://github.com/sacOO7)  
+Repo: https://github.com/sacOO7/socketcluster-client-go
 
 ---
 
