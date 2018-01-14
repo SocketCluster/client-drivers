@@ -44,6 +44,13 @@ Level: **L4**
 Authors: [abpopov](https://github.com/abpopov)  
 Repo: https://github.com/abpopov/SocketCluster-ios-client
 
+**socketcluster-client-swift**  
+Language: **Swift**  
+Platform: **iOS**  
+Level: **L4**  
+Authors: [sacOO7](https://github.com/sacOO7)  
+Repo: https://github.com/sacOO7/socketcluster-client-swift
+
 **socketcluster-client-python (Official Python client)**  
 Language: **Python**  
 Platform: **Any Python platform**  
