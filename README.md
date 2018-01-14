@@ -79,6 +79,13 @@ Level: **L4**
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-C
 
+**scio_beast**  
+Language: **C++11 or higher**  
+Platform: **All**  
+Level: **L4**  
+Authors: [Bryan Ashby](https://github.com/NuSkooler/)  
+Repo: https://github.com/cw-zift/scio-beast
+
 **socketcluster-client-go (Official Go client)**  
 Language: **Go**  
 Platform: **Any platform which has a Go compiler**  
