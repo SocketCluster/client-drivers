@@ -25,7 +25,7 @@ Feedback on existing clients is welcome.
 
 **socketcluster-client (Official client)**  
 Language: **JavaScript**  
-Platform: **Web browser**  
+Platform: **Web browsers, Node.js**  
 Level: **L4**  
 Authors: [jondubois](https://github.com/jondubois)  
 Repo: https://github.com/SocketCluster/socketcluster-client
