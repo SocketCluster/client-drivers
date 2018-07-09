@@ -96,7 +96,7 @@ Repo: https://github.com/sacOO7/socketcluster-client-go
 **socketcluster-client-ruby**  
 Language: **Ruby**  
 Platform: **Any platform which has a ruby >= 2.2.0**  
-Level: **L4** (CUrrently in beta)    
+Level: **L4** (Beta)    
 Authors: [OpenSocket](https://github.com/OpenSocket/)  
 Repo: https://github.com/OpenSocket/socketcluster-client-ruby
 
