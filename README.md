@@ -96,15 +96,7 @@ Repo: https://github.com/sacOO7/socketcluster-client-go
 **socketcluster-client-ruby**  
 Language: **Ruby**  
 Platform: **Any platform which has a ruby >= 2.2.0**  
-Level: **L4** (Beta)    
+Level: **L4**
 Authors: [OpenSocket](https://github.com/OpenSocket/)  
 Repo: https://github.com/OpenSocket/socketcluster-client-ruby
 
----
-
-**SocketCluster-android-client**  
-Language: **Java**  
-Platform: **Android**  
-Level: **L4**  
-Authors: [abpopov](https://github.com/abpopov), [dark58](https://github.com/dark58)  
-Repo: https://github.com/abpopov/SocketCluster-android-client
