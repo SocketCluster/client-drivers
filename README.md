@@ -58,6 +58,13 @@ Level: **L4**
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-python
 
+**socketcc (Unofficial Python3.6 client)**  
+Language: **Python**  
+Platform: **Any Python platform**  
+Level: **L4**  
+Authors: [Ramazan Polat](https://github.com/ramazanpolat)  
+Repo: https://github.com/ramazanpolat/socketcc
+
 **socketcluster-client-dot-net (Official .NET client)**  
 Language: **C#**  
 Platform: **.NET, Mono, Silverlight, WindowsPhone, Xamarin.Android, Xamarin.iOS, any .NET platform**  
