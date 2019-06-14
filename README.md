@@ -113,6 +113,7 @@ Platform: **JVM**
 Level: **L3**     
 Authors: [tuddman](https://github.com/tuddman)  
 Repo: https://github.com/tuddman/socketcluster-clj
+
 ---
 
 **SocketCluster-android-client**  
