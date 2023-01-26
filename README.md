@@ -100,3 +100,9 @@ Level: **L4**
 Authors: [OpenSocket](https://github.com/OpenSocket/)  
 Repo: https://github.com/OpenSocket/socketcluster-client-ruby
 
+**socketcluster-client-ue4 (Official UE4 client)**  
+Language: **C++**,**Blueprint**  
+Platform: **Windows**  
+Level: **L4**  
+Authors: [inQonsole](https://github.com/inQonsole), [ZiiCreater](https://github.com/ziicreater)  
+Repo: https://github.com/ziicreater/socketcluster-client-ue4
