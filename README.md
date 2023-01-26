@@ -93,16 +93,16 @@ Level: **L4**
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-go
 
-**socketcluster-client-ruby**  
+**socketcluster-client-ruby (Official Ruby client)**  
 Language: **Ruby**  
-Platform: **Any platform which has a ruby >= 2.2.0**  
-Level: **L4**
+Platform: **Any platform which has Ruby >= 2.2.0**  
+Level: **L4**  
 Authors: [OpenSocket](https://github.com/OpenSocket/)  
 Repo: https://github.com/OpenSocket/socketcluster-client-ruby
 
-**socketcluster-client-ue4 (Official UE4 client)**  
-Language: **C++**,**Blueprint**  
-Platform: **Windows**  
-Level: **L4**  
-Authors: [inQonsole](https://github.com/inQonsole), [ZiiCreater](https://github.com/ziicreater)  
+**Unreal Engine Client (Official UE4 client)**  
+Language: **C++ && UE Blueprints**  
+Platform: **Any platform with C++ compiler and has UE4 libraries installed**  
+Level: **L4** (Currently in Beta)
+Authors: [ziiCreater](https://github.com/ziicreater), [inQonsole](https://github.com/inQonsole)  
 Repo: https://github.com/ziicreater/socketcluster-client-ue4
