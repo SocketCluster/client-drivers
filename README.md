@@ -107,6 +107,13 @@ Level: **L4**
 Authors: [inQonsole](https://github.com/inQonsole), [ZiiCreater](https://github.com/ziicreater)  
 Repo: https://github.com/ziicreater/socketcluster-client-ue4
 
+**socketcluster-clj**  
+Language: **Clojure**  
+Platform: **JVM**  
+Level: **L3**     
+Authors: [tuddman](https://github.com/tuddman)  
+Repo: https://github.com/tuddman/socketcluster-clj
+
 ---
 
 **SocketCluster-android-client**  
