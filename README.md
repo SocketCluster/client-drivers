@@ -5,7 +5,7 @@ This is the list of SocketCluster client drivers for various languages and/or op
 If you wrote an open source SC client and would like to add it to this list, you should submit a PR with
 the name of your client, GitHub repo URL, language/platform and the original author's GitHub username (follow the convention).
 
-Note that the official JavaScript socketcluster-client offers a number of features - Third-party clients
+Note that the official JavaScript `socketcluster-client` offers a number of features - Third-party clients
 may not necessarily support all these features - For this reason, we think it's important to classify
 clients into different levels based on what features they offer.
 Note that each level builds on top of the previous one; so a client cannot be considered L3 unless it implements all the required features of both L1 and L2.
@@ -37,19 +37,19 @@ Level: **L4**
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-java
 
-**SocketCluster-ios-client**  
-Language: **Objective-C**  
-Platform: **iOS**  
-Level: **L4**  
-Authors: [abpopov](https://github.com/abpopov)  
-Repo: https://github.com/abpopov/SocketCluster-ios-client
-
 **socketcluster-client-swift (Official iOS client)**  
 Language: **Swift**  
 Platform: **iOS**  
 Level: **L4**  
 Authors: [sacOO7](https://github.com/sacOO7)  
 Repo: https://github.com/sacOO7/socketcluster-client-swift
+
+**SocketCluster-ios-client**  
+Language: **Objective-C**  
+Platform: **iOS**  
+Level: **L4**  
+Authors: [abpopov](https://github.com/abpopov)  
+Repo: https://github.com/abpopov/SocketCluster-ios-client
 
 **socketcluster-client-python (Official Python client)**  
 Language: **Python**  
@@ -103,6 +103,6 @@ Repo: https://github.com/OpenSocket/socketcluster-client-ruby
 **Unreal Engine Client (Official UE4 client)**  
 Language: **C++ && UE Blueprints**  
 Platform: **Any platform with C++ compiler and has UE4 libraries installed**  
-Level: **L4** (Currently in Beta)
+Level: **L4** (Currently in Beta)  
 Authors: [ziiCreater](https://github.com/ziicreater), [inQonsole](https://github.com/inQonsole)  
 Repo: https://github.com/ziicreater/socketcluster-client-ue4
